@@ -34,7 +34,9 @@
   },
   "name":"Teste.01",
   "resources":[
+    {"id":{"name":"Obj_piso","path":"objects/Obj_piso/Obj_piso.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
