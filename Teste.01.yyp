@@ -34,16 +34,18 @@
   },
   "name":"Teste.01",
   "resources":[
-    {"id":{"name":"Obj_person","path":"objects/Obj_person/Obj_person.yy",},},
-    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
+    {"id":{"name":"Obj_Teste","path":"objects/Obj_Teste/Obj_Teste.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Testes","path":"rooms/Testes/Testes.yy",},},
+    {"id":{"name":"spr_exemplo","path":"sprites/spr_exemplo/spr_exemplo.yy",},},
     {"id":{"name":"Spr_perso","path":"sprites/Spr_perso/Spr_perso.yy",},},
-    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
+    {"id":{"name":"spr_piso","path":"sprites/spr_piso/spr_piso.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Testes","path":"rooms/Testes/Testes.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
